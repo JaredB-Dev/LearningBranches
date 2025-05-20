@@ -2,6 +2,7 @@ public class taller {
     public static void main(String[] args) {
         aClass<? extends String> me = new aClass<String>("Hello");
         me.printar();
+        // Invalidad Reference: me.printar();
     }
 }
 
