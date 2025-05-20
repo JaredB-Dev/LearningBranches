@@ -1,0 +1,1 @@
+print("Viva el diseño de redes estructurales")
